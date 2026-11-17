@@ -3,8 +3,7 @@ public class App {
         System.out.println("=== SISTEMA DE GESTIÓN v1.0 ===");
 
         // ZONA DE MÓDULOS
-        String estadoModulo = "Sin módulos activos";
-        System.out.println("Estado: " + estadoModulo);
+        String estadoModulo = "Módulo de Login Activado por Alumno A";
     }
 }
 
